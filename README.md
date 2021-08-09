@@ -42,7 +42,7 @@ Here are the basics that you might need to head on first if you are an absolute 
 Don’t get overwhelmed you don’t need to start learning this from scratch every time you pick up a language. Just get through this once and then brushing up the basics once in a while will do. But as someone just starting you should learn the basics. These basics will add to your knowledge but will also help you start with simple programs as well.
 
 When you start with the topics like operators and decision making you will encounter programs along with theory. You can use these examples to practice writing programs. 
-Apart from that, you can refer to a book like “Getting started with C” by Yashwant Kanetkar. It has everything that you might need to get started. 
+Apart from that, you can refer to a book like “Let Us C” by Yashwant Kanetkar. It has everything that you might need to get started. 
 
 Although you don’t necessarily need a book to learn a language. You can leverage free resources to learn and grow.
 
